@@ -53,7 +53,7 @@ dependencies = [
  "clap 2.33.3 (registry+https://github.com/rust-lang/crates.io-index)",
  "libc 0.2.79 (registry+https://github.com/rust-lang/crates.io-index)",
  "nix 0.19.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "vsock 0.2.1",
+ "vsock 0.2.2",
 ]
 
 [[package]]
